@@ -1,0 +1,12 @@
+/Users/divyamoorthy/Projects/BusinessRulesEngine/BusinessRuleEngine/bin/Debug/netcoreapp3.1/BusinessRuleEngine.deps.json
+/Users/divyamoorthy/Projects/BusinessRulesEngine/BusinessRuleEngine/bin/Debug/netcoreapp3.1/BusinessRuleEngine.runtimeconfig.json
+/Users/divyamoorthy/Projects/BusinessRulesEngine/BusinessRuleEngine/bin/Debug/netcoreapp3.1/BusinessRuleEngine.runtimeconfig.dev.json
+/Users/divyamoorthy/Projects/BusinessRulesEngine/BusinessRuleEngine/bin/Debug/netcoreapp3.1/BusinessRuleEngine.dll
+/Users/divyamoorthy/Projects/BusinessRulesEngine/BusinessRuleEngine/bin/Debug/netcoreapp3.1/BusinessRuleEngine.pdb
+/Users/divyamoorthy/Projects/BusinessRulesEngine/BusinessRuleEngine/obj/Debug/netcoreapp3.1/BusinessRuleEngine.csprojAssemblyReference.cache
+/Users/divyamoorthy/Projects/BusinessRulesEngine/BusinessRuleEngine/obj/Debug/netcoreapp3.1/BusinessRuleEngine.AssemblyInfoInputs.cache
+/Users/divyamoorthy/Projects/BusinessRulesEngine/BusinessRuleEngine/obj/Debug/netcoreapp3.1/BusinessRuleEngine.AssemblyInfo.cs
+/Users/divyamoorthy/Projects/BusinessRulesEngine/BusinessRuleEngine/obj/Debug/netcoreapp3.1/BusinessRuleEngine.csproj.CoreCompileInputs.cache
+/Users/divyamoorthy/Projects/BusinessRulesEngine/BusinessRuleEngine/obj/Debug/netcoreapp3.1/BusinessRuleEngine.dll
+/Users/divyamoorthy/Projects/BusinessRulesEngine/BusinessRuleEngine/obj/Debug/netcoreapp3.1/BusinessRuleEngine.pdb
+/Users/divyamoorthy/Projects/BusinessRulesEngine/BusinessRuleEngine/obj/Debug/netcoreapp3.1/BusinessRuleEngine.genruntimeconfig.cache
